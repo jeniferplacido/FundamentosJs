@@ -1,4 +1,4 @@
-### JavaScript**
+### **JavaScript**
 
 ##### **JavaScript** (frequentemente abreviado como **JS**) é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica e multi-paradigma (protótipos, orientado a objeto, imperativo e funcional). Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
 
